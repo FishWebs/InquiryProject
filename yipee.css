@@ -1,0 +1,36 @@
+        table, th, td {
+          border: 1px solid rgb(0,s0, 0);
+        }
+
+	h1, p, h2, ul {
+  	text-shadow: 1px 1px #FFFFFF;
+	}
+	
+	h1, p, h2 { 
+	text-color: rgb(255, 255, 255);
+	}
+
+	h1, p, h2, ul {
+  	color: black;
+	}
+	
+	body {
+	background-color:rgb(102, 255, 153);
+	}
+	
+	.Importanttext {
+	font-weight: bold;
+	text-shadow: 1px 1px #FFFFFF;
+	}
+	
+	h1, .MBM {
+	text-align: center
+	}
+
+	.MBM{
+	text-shadow: 1px 1px #FFFFFF
+	}
+
+	table, th, td {
+		border:1px solid black;
+	  }

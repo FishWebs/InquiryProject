@@ -1,0 +1,36 @@
+Source:
+Studio binder: animation
+https://www.studiobinder.com/blog/what-is-animation-definition/
+
+Britannica: radio
+https://www.britannica.com/topic/radio
+
+W3schools: a bit of the CSS code and color
+https://www.w3schools.com/css/default.asp
+
+Funkids: Radio
+https://www.funkidslive.com/learn/top-10-facts/top-10-facts-about-radio/
+
+Britannica: Music
+https://www.britannica.com/art/music
+
+Study: Music
+https://study.com/academy/lesson/what-is-music-definition-terminology-characteristics.html
+
+Vedantu: Music
+https://www.vedantu.com/blog/interesting-facts-about-music
+
+VScode: The app i used for coding in Html and Css
+
+Order:
+Animation
+radio
+music
+social media
+Games
+Programming
+podcast
+
+tags
+<div class ="Importanttext">oogly boogly</div>
+<div class =" OoglyBoogly">Oogly boogly</div>
